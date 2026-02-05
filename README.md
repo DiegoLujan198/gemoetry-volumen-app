@@ -7,9 +7,22 @@ Este proyecto es una calculadora de volumen geometrica simplre construida con Py
 
 # Explicacion de la Estructura del Proyecto
 
-El
+El proyecto esta organizado de forma modular para separar la logica de los calculos de las pruebas de validacion: 
 
 <img width="406" height="435" alt="image" src="https://github.com/user-attachments/assets/b14e831b-2b94-47d7-acf2-817897b8981a" />
+
+
+* Como ejecutar main.py
+
+Para iniciar la calculadora interactiva, tienes que ejecutar en Windows el *Command Prompt* o en Linux ejecuta el *Terminal* desde la raiz del proyecto:
+
+Importante: Cuando mensiono desde la raiz del proyecto me refiero afuera del folder de geometry y las de test, si intentas correr el main.py adentro de estos folders, no lo va a encontrar los modulos y va a marcar un error. 
+
+Esto es lo que se tiene que ver cuando corres el main.py 
+
+<img width="329" height="435" alt="image" src="https://github.com/user-attachments/assets/18cf62e2-6a54-404f-a427-8bc067211035" />
+
+
 
 
 
