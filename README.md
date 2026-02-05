@@ -23,6 +23,11 @@ Esto es lo que se tiene que ver cuando corres el main.py
 <img width="1024" height="742" alt="image" src="https://github.com/user-attachments/assets/71e380ee-7aef-4ecf-8556-00b86e70c9c9" />
 
 
+* Como ejecutar test.py
+
+
+
+
 
 
 
