@@ -7,7 +7,7 @@ Este proyecto es una calculadora de volumen geometrica simplre construida con Py
 
 # Explicacion de la Estructura del Proyecto
 
-El proyecto esta organizado de forma modular para separar la logica de los calculos de las pruebas de validacion: 
+El proyecto esta organizado de forma modular para separar la logica de los calculos y de las pruebas de validacion: 
 
 <img width="406" height="435" alt="image" src="https://github.com/user-attachments/assets/b14e831b-2b94-47d7-acf2-817897b8981a" />
 
