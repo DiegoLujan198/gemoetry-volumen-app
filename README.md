@@ -25,9 +25,14 @@ Esto es lo que se tiene que ver cuando corres el main.py
 
 # Como ejecutar test.py
 
+Este proyecto utiliza *pytest* para las preubas automatizadas. Para ejecutar los 12 casos de prueba y verificar los calculos tienes que poner en la raiz del proyecto pytest.
 
+Esto es lo que se tiene que ver cuando corres pytest
 
 <img width="1122" height="261" alt="image" src="https://github.com/user-attachments/assets/1d348d47-9766-4e5c-b984-9fff353b205c" />
+
+
+
 
 
 
