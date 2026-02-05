@@ -31,6 +31,19 @@ Esto es lo que se tiene que ver cuando corres pytest
 
 <img width="1122" height="261" alt="image" src="https://github.com/user-attachments/assets/1d348d47-9766-4e5c-b984-9fff353b205c" />
 
+# Dependencias
+
+Este proyecto requiere Python 3.10. Las dependencias externas estan listadas en el archivo requierement.txt. Para instalar las dependencias tienes que ejecutar este codigo en tu Terminal: 
+
+*pip install -r requirements.txt* 
+
+
+#Conclusion
+
+
+Durante este proyecto, pude aprender como descargar mis repositorios en GitHub a mi computadora personal, al igual que puede entender como mandar mis archivos al repositorio desde la terminal. Siento que esto ayuda mucho para tener ambas cosas listas y preparadas por si tengo que cambiar de computadora, permitiendo que otras personas puedan tener el proyecto rapidamente sin tener que hacerlo manualmanete.
+
+En cuanto a los desafios, las cosas con las que mas batalle fueron en la parte de hacer los tests, ya que es mi primera vez haciendo pruebas para saber si el codigo esta bien y coriendo estas validacions directamente en la terminal de mi computadora. Fuera de eso pude entender bien el resto del proyecto y el flujo de trabajo con Git. 
 
 
 
