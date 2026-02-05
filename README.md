@@ -16,7 +16,7 @@ El proyecto esta organizado de forma modular para separar la logica de los calcu
 
 Para iniciar la calculadora interactiva, tienes que ejecutar en Windows el *Command Prompt* o en Linux ejecuta el *Terminal* desde la raiz del proyecto:
 
-Importante: Cuando mensiono desde la raiz del proyecto me refiero afuera del folder de geometry y las de test, si intentas correr el main.py adentro de estos folders, no lo va a encontrar los modulos y va a marcar un error. 
+Importante: Cuando mensiono desde la raiz del proyecto me refiero afuera del folder de geometry y las de test, si intentas correr el main.py adentro de estos folders, no lo va a encontrar y va a marcar un error. 
 
 Esto es lo que se tiene que ver cuando corres el main.py 
 
