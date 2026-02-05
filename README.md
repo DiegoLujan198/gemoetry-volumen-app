@@ -20,7 +20,8 @@ Importante: Cuando mensiono desde la raiz del proyecto me refiero afuera del fol
 
 Esto es lo que se tiene que ver cuando corres el main.py 
 
-<img width="329" height="435" alt="image" src="https://github.com/user-attachments/assets/18cf62e2-6a54-404f-a427-8bc067211035" />
+<img width="1024" height="742" alt="image" src="https://github.com/user-attachments/assets/71e380ee-7aef-4ecf-8556-00b86e70c9c9" />
+
 
 
 
