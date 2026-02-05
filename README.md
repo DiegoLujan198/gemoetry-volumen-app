@@ -27,6 +27,12 @@ Esto es lo que se tiene que ver cuando corres el main.py
 
 
 
+<img width="1122" height="261" alt="image" src="https://github.com/user-attachments/assets/1d348d47-9766-4e5c-b984-9fff353b205c" />
+
+
+
+
+
 
 
 
