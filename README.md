@@ -38,7 +38,7 @@ Este proyecto requiere Python 3.10. Las dependencias externas estan listadas en 
 *pip install -r requirements.txt* 
 
 
-#Conclusion
+# Conclusion
 
 
 Durante este proyecto, pude aprender como descargar mis repositorios en GitHub a mi computadora personal, al igual que puede entender como mandar mis archivos al repositorio desde la terminal. Siento que esto ayuda mucho para tener ambas cosas listas y preparadas por si tengo que cambiar de computadora, permitiendo que otras personas puedan tener el proyecto rapidamente sin tener que hacerlo manualmanete.
